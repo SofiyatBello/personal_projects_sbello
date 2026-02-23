@@ -1,0 +1,26 @@
+[
+  {
+    "title": "AI Governance and Public Policy",
+    "description": "Panel on responsible AI, regulation, and the social impact of machine learning.",
+    "start_time": "2026-03-02 17:00",
+    "location": "Maxwell Dworkin G125",
+    "organization": "Harvard SEAS",
+    "link": "https://calendar.harvard.edu/event/ai-governance"
+  },
+  {
+    "title": "Faith and the Law in Pluralistic Societies",
+    "description": "A discussion on moral philosophy, chaplaincy, and legal frameworks for belief communities.",
+    "start_time": "2026-03-05 18:30",
+    "location": "Harvard Divinity School",
+    "organization": "Harvard Chaplains",
+    "link": "https://calendar.harvard.edu/event/faith-law"
+  },
+  {
+    "title": "Startup Demo Night",
+    "description": "Student founders pitch ventures in robotics, climate tech, and biotech.",
+    "start_time": "2026-03-07 19:00",
+    "location": "Science Center Hall C",
+    "organization": "Harvard Innovation Labs",
+    "link": "https://calendar.harvard.edu/event/startup-demo"
+  }
+]
